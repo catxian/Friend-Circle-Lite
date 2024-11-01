@@ -1,19 +1,44 @@
 {
   "friends": [
     [
-      "安知鱼",
+      "Hexo",
+      "https://hexo.io/zh-tw/",
+      "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg"
+    ],
+    [
+      "anzhiyu主题",
       "https://blog.anheyu.com/",
       "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     ],
     [
-      "杨幂的脚",
+      "一粒微尘",
+      "https://blog.667408.xyz",
+      "https://blog.667408.xyz/favicon.ico"
+    ],
+    [
+      "CMLiussssBlog",
       "https://blog.cmliussss.com/",
-      "https://raw.cmliussss.com/IMG_0038.png"
+      "https://img.090227.xyz/file/5593a0a32f1082a8fb83d.jpg"
+    ],
+    [
+      "铭心石刻",
+      "https://blog.kouseki.cn/",
+      "https://blog.kouseki.cn/imgs/avatar.webp"
     ],
     [
       "东方月初",
       "https://hexo.200038.xyz/",
       "https://serv.200038.xyz/2024/09/19/040857.webp"
+    ],
+    [
+      "青云志",
+      "https://blog.811520.xyz/",
+      "https://raw.githubusercontent.com/yutian81/yutian81.github.io/master/favicon.ico"
+    ],
+    [
+      "梦爱吃鱼",
+      "https://blog.bsgun.cn/",
+      "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
     ]
   ]
 }
